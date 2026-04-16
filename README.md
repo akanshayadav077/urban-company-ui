@@ -37,11 +37,5 @@ A React + Vite clone of the Urban Company landing page and service booking exper
    ```text
    http://localhost:5173
    ```
-
-## Screenshots
-
-> Add project screenshots here once available.
-
 ## Live Demo
-
-> Live demo link coming soon.
+https://urban-company-ui.vercel.app/
